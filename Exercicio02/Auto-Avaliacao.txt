@@ -1,5 +1,0 @@
-- Não tive problemas para o CRUD/DAO.
-- Consegui fazer a classe "Carro" sem problemas.
-- Criei a tabela carro no PostgreSQL / PgAdmin.
-
-* De modo geral, apesar de "simples" aprendi muito com o Exercício (vídeo-aulas, slides/pdf).
