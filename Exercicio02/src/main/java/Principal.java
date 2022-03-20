@@ -1,7 +1,3 @@
-//package com.ti2cc;
-
-//import com.ti2cc.DAO;
-//import com.ti2cc.Usuario;
 
 public class Principal {
 	

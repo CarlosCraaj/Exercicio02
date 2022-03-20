@@ -1,4 +1,3 @@
-//package com.ti2cc;
 
 import java.sql.*;
 

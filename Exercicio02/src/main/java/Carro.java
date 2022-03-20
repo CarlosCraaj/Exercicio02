@@ -1,4 +1,3 @@
-//package com.ti2cc;
 
 public class Carro {
 	private int id;
